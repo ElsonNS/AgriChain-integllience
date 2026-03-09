@@ -171,7 +171,7 @@ The AI algorithms (linear regression, statistical analysis) are implemented dire
 Create `frontend/dashboard/.env`:
 
 ```env
-VITE_API_URL=https://1nz6i4er02.execute-api.us-east-1.amazonaws.com
+VITE_API_URL=
 VITE_ENV=production
 ```
 
