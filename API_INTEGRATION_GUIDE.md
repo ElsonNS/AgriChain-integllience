@@ -12,7 +12,7 @@ This document describes the complete API integration between the AgriChain React
 
 ### Backend
 - **Platform**: AWS Lambda + API Gateway
-- **Base URL**: `https://1nz6i4er02.execute-api.us-east-1.amazonaws.com`
+- **Base URL**: `your url`
 - **Architecture**: Serverless
 
 ## Environment Configuration
@@ -21,7 +21,7 @@ This document describes the complete API integration between the AgriChain React
 Create a `.env` file in `frontend/dashboard/`:
 
 ```env
-VITE_API_URL=https://1nz6i4er02.execute-api.us-east-1.amazonaws.com
+VITE_API_URL=your url
 VITE_ENV=production
 ```
 
